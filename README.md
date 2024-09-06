@@ -4,7 +4,6 @@ This is a Phaser Editor v4 project template.
 
 ## Configuration
 
-* It includes the latest Phaser v3 runtime (in the `lib/` folder).
 * It is coded in JavaScript.
 * It includes a VS Code project configuration (`jsconfig.json` file) and the type definitions (in the `types/` folder).
 
