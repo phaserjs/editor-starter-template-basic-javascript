@@ -1,6 +1,7 @@
 ## v2.0.4 - Sep 24, 2024
 
 * Gets the new script node libraries.
+* Removes the loading bar script nodes.
 
 ## v2.0.3 - Sep 19, 2024
 
