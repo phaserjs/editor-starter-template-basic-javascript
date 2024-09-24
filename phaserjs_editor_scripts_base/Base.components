@@ -3,6 +3,7 @@
         {
             "name": "ActionTargetComp",
             "displayName": "Action Target Config",
+            "objectDisplayFormat": "",
             "baseClass": "",
             "gameObjectType": "any",
             "properties": [
@@ -35,30 +36,6 @@
                     "customDefinition": false,
                     "type": {
                         "id": "string"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "AssignOpComp",
-            "displayName": "Assignment Operator",
-            "objectDisplayFormat": "[${operator}]",
-            "baseClass": "",
-            "gameObjectType": "any",
-            "properties": [
-                {
-                    "name": "operator",
-                    "label": "Operator",
-                    "tooltip": "",
-                    "defValue": "=",
-                    "customDefinition": false,
-                    "type": {
-                        "id": "option",
-                        "options": [
-                            "=",
-                            "+=",
-                            "*="
-                        ]
                     }
                 }
             ]
