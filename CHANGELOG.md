@@ -1,4 +1,4 @@
-## v2.0.4 - Sep 24, 2024
+## v2.0.5 - Sep 28, 2024
 
 * Adds `importModuleSpecifierEnding` VS Code settings.
 
