@@ -1,3 +1,7 @@
+## v2.0.6 - Oct 11, 2024
+
+* Updates to Phaser 3.86.
+
 ## v2.0.5 - Sep 28, 2024
 
 * Adds `importModuleSpecifierEnding` VS Code settings.
